@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Raja Rohan
 
-🎯 **Software Engineer | Android | Backend | Frontend | Full Stack | TDD Advocate**
+🎯 **Software Engineer | Android | Backend | Frontend | Full Stack**
 
 ---
 
@@ -102,7 +102,7 @@ I specialize in building scalable mobile and web applications using **Kotlin**, 
 
 📫 **Let's Connect!**
 
-- 🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/raja-rohan-13046a170/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/raja-rohan-13046a170/)
 - 📬 Email: rayrohan909@gmail.com
 
 ---
