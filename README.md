@@ -6,7 +6,7 @@
 
 💼 **About Me**
 
-Software Engineer with **5.7 years** of hands-on experience across **Android**, **Backend**, and **Frontend** development.  
+Software Engineer with **6.9 years** of hands-on experience across **Android**, **Backend**, and **Frontend** development.  
 I specialize in building scalable mobile and web applications using **Kotlin**, **Spring Boot**, and **React.js**. I’m passionate about writing clean, test-driven code and building efficient systems following modern architecture principles.
 
 ---
